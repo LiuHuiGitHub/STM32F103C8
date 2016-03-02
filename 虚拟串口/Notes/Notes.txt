@@ -1,0 +1,1 @@
+sys_countc	channel0 used by drive_ir.c
